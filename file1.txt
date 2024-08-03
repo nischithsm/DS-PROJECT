@@ -1,9 +1,0 @@
-[1;34m#[10]
-[1;34mword is [1;31mKing            [1;34m: filecount is 1 file/s : [1;34mfile is file1.txt       : word count is 1   [0m
-
-[1;34m#[17]
-[1;34mword is [1;31mRagnar          [1;34m: filecount is 1 file/s : [1;34mfile is file1.txt       : word count is 1   [0m
-
-[1;34m#[22]
-[1;34mword is [1;31mwas             [1;34m: filecount is 1 file/s : [1;34mfile is file1.txt       : word count is 1   [0m
-
